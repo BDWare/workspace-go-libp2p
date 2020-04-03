@@ -24,16 +24,16 @@
 	url = https://github.com/libp2p/go-libp2p-peerstore.git
 [submodule "go-libp2p-kad-dht"]
 	path = go-libp2p-kad-dht
-	url = https://github.com/libp2p/go-libp2p-kad-dht.git
+	url = ssh://vcs@phabricator.internetapi.cn/source/libp2p.go-libp2p-kad-dht.git
 [submodule "go-libp2p-kbucket"]
 	path = go-libp2p-kbucket
-	url = https://github.com/libp2p/go-libp2p-kbucket.git
+	url = ssh://vcs@phabricator.internetapi.cn/source/libp2p.go-libp2p-kbucket.git
 [submodule "go-libp2p-record"]
 	path = go-libp2p-record
 	url = https://github.com/libp2p/go-libp2p-record.git
 [submodule "go-libp2p-pubsub"]
 	path = go-libp2p-pubsub
-	url = https://github.com/libp2p/go-libp2p-pubsub.git
+	url = ssh://vcs@phabricator.internetapi.cn/source/libp2p.go-libp2p-pubsub.git
 [submodule "go-tcp-transport"]
 	path = go-tcp-transport
 	url = https://github.com/libp2p/go-tcp-transport.git
