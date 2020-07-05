@@ -1,10 +1,10 @@
 # go-libp2p workspace
 
-| project                             | version     |
-| ----------------------------------- | ----------- |
-| bdware.org/libp2p/go-libp2p-kad-dht | v0.5.2-bdw2 |
-| bdware.org/libp2p/go-libp2p-kbucket | v0.3.1-bdw  |
-| bdware.org/libp2p/go-libp2p-pubsub  | v0.2.6-bdw1 |
+| project                             | version      |
+| ----------------------------------- | ------------ |
+| github.com/bdware/go-libp2p-kad-dht | v0.8.2-bdw.1 |
+| github.com/bdware/go-libp2p-kbucket | v0.4.2-bdw.1 |
+| github.com/bdware/go-libp2p-pubsub  | v0.3.1-bdw.1 |
 
 go-libp2p is a p2p networking stack based on the principle of modularity. Its
 modules are scattered across a number of Git repos. We have recently migrated
